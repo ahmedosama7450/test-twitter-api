@@ -1,4 +1,4 @@
 ﻿# Testing twitter api
  
- Just testing out the twitter api in node.js
+ Serverless api deployed to vercel used by [test-expo](https://github.com/ahmedosama7450/test-expo)
  
